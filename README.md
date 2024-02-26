@@ -81,3 +81,34 @@ Quick Deployment:
 ## More information
 
 For complete information, go to the main repository: [github.com/Chronoblog/gatsby-theme-chronoblog](https://github.com/Chronoblog/gatsby-theme-chronoblog)
+
+## MOD
+
+primero:
+
+npm install -g gatsby-cli
+npm install gh-pages --save-dev
+ (si no se tiene gatsby new gatsby-site)
+
+Agregar esto:
+
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+
+Aqui:
+
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "start": "gatsby develop",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+  }
+
+arrancar: gatsby develop
+bluid: gatsby build
+
+ publicarlo: 
+ npm run deploy
+
+ Docs: 
+ https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/how-gatsby-works-with-github-pages/
+ https://medium.com/@sidibemouhamed/how-i-created-my-blog-with-gatsby-e34d4b1d9664
