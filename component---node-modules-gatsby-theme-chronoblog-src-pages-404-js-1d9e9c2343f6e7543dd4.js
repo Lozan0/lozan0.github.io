@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{WB7O:function(c,l,n){"use strict";n.r(l);n("q1tI");var e=n("4eCI"),t=n("dyaL"),a=n("zzhW"),u=n("MWwL"),b=n("qKvR");l.default=()=>Object(b.c)(a.a,null,Object(b.c)("h1",null,"404"),Object(b.c)(t.a,null),Object(b.c)(u.a,null),Object(b.c)(e.a,null))}}]);
+//# sourceMappingURL=component---node-modules-gatsby-theme-chronoblog-src-pages-404-js-1d9e9c2343f6e7543dd4.js.map
