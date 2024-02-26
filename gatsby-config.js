@@ -3,7 +3,7 @@ module.exports = {
     siteTitle: 'Chronoblog Hacker Starter',
     siteDescription: 'Starter for Gatsby Theme Chronoblog',
     siteImage: '/banner.png', // main image of the site for metadata
-    siteUrl: 'https://chronoblog-hacker.now.sh/',
+    siteUrl: 'https://lozan0.github.io/', //siteUrl: 'https://chronoblog-hacker.now.sh/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
