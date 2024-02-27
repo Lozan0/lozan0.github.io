@@ -7,7 +7,7 @@ module.exports = {
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Lozan0´s Blog', // for example - 'Ivan Ganev'
+    author: 'Lozan0^s Blog', // for example - 'Ivan Ganev'
     authorDescription: 'Arquitectura | Desarrollo de software | DevSecOps | Cloud Native', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
