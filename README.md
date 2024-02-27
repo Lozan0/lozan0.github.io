@@ -112,5 +112,7 @@ bluid: gatsby build
  Docs: 
  https://www.gatsbyjs.com/docs/how-to/previews-deploys-hosting/how-gatsby-works-with-github-pages/
  https://medium.com/@sidibemouhamed/how-i-created-my-blog-with-gatsby-e34d4b1d9664
+
  conocimiento del theme: https://github.com/Chronoblog/gatsby-theme-chronoblog?tab=readme-ov-file
+
  MDX: https://mdxjs.com/docs/using-mdx/
