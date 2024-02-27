@@ -1,7 +1,7 @@
 ---
 title: Introducción a Power Apps
 date: 2024-02-26
-tags: ['post', 'tutoriales', 'power apps']
+tags: ['post', 'tutoriales', 'power-apps']
 ---
 
 Primero que todo, ¿que es Power Apps?:

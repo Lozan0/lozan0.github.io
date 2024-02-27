@@ -7,8 +7,8 @@ module.exports = {
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Site Author', // for example - 'Ivan Ganev'
-    authorDescription: 'short author description', // short text about the author
+    author: 'Lozan0´s Blog', // for example - 'Ivan Ganev'
+    authorDescription: 'Arquitectura | Desarrollo de software | DevSecOps | Cloud Native', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
     twitterCreator: '', // creator account on twitter
@@ -37,10 +37,10 @@ module.exports = {
       options: {
         uiText: {
           // ui text fot translate
-          feedShowMoreButton: 'show more',
-          feedSearchPlaceholder: 'search',
-          cardReadMoreButton: 'read more →',
-          allTagsButton: 'all tags',
+          feedShowMoreButton: 'Mostrar mas',
+          feedSearchPlaceholder: 'Buscar',
+          cardReadMoreButton: 'Leer mas →',
+          allTagsButton: 'Todos los tags',
         },
         feedItems: {
           // global settings for feed items
