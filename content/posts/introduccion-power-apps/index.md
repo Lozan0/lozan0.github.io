@@ -1,5 +1,6 @@
 ---
 title: Introducción a Power Apps
+cover: ./cover.png
 date: 2024-02-26
 tags: ['post', 'tutoriales', 'power apps']
 ---
