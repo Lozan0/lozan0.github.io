@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
     siteTitle: 'Lozano\´s Blog',
-    siteDescription: 'Starter for Gatsby Theme Chronoblog',
+    siteDescription: 'Un blog de tecnología',
     siteImage: '/banner.png', // main image of the site for metadata
     siteUrl: 'https://lozan0.github.io/', //siteUrl: 'https://chronoblog-hacker.now.sh/',
     pathPrefix: '/',
     siteLanguage: 'en',
     ogLanguage: `en_US`,
-    author: 'Lozan0^s Blog', // for example - 'Ivan Ganev'
+    author: 'Lozano\´s Blog', // for example - 'Ivan Ganev'
     authorDescription: 'Arquitectura | Desarrollo de software | DevSecOps | Cloud Native', // short text about the author
     avatar: '/avatar.jpg',
     twitterSite: '', // website account on twitter
@@ -15,19 +15,19 @@ module.exports = {
     social: [
       {
         icon: `at`,
-        url: `mailto:mymail@mail.com`,
+        url: `#`,
       },
       {
         icon: `twitter`,
-        url: `https://twitter.com/ganevru`,
+        url: `#`,
       },
       {
         icon: `github`,
-        url: `https://github.com/Chronoblog/gatsby-theme-chronoblog`,
+        url: `https://github.com/lozan0`,
       },
       {
         icon: `node-js`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`,
+        url: `#`,
       },
     ],
   },
