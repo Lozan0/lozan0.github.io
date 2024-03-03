@@ -2,21 +2,29 @@
 <p>&nbsp;</p>
 
 <h3>
-  Posts and Articles / <Link to='posts-and-articles'>All of Them</Link>
+  Los ultimos Posts y Articulos
 </h3>
 
 
 <FeedItems 
   itemsFormat="compact" 
   filterByTags={['post', 'article', 'tutoriales']} 
-  limit={10} 
+  limit={5} 
 />
 
 <p>&nbsp;</p>
 
-### Projects
+<Link to='posts-and-articles'>Todos los Posts y Articulos</Link>
+
+<p>&nbsp;</p>
+
+### Proyectos
 
 <FeedItems itemsFormat="compact" filterByTags={['project']} />
+
+### Notas
+
+<FeedItems itemsFormat="compact" filterByTags={['note']} />
 
 <img src="hacktheplanet.png" alt="Lozan0s Blog" title="Lozan0s Blog" />
 
