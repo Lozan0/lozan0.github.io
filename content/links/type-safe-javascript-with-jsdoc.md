@@ -1,7 +1,7 @@
 ---
 title: Type Safe JavaScript with JSDoc
 date: 2018-09-04
-tags: ['link', 'article']
+tags: ['link']
 link: https://medium.com/@trukrs/type-safe-javascript-with-jsdoc-7a2a63209b76
 ---
 
