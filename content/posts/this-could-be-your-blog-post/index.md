@@ -2,6 +2,7 @@
 title: This could be your blog post
 date: 2019-01-27
 tags: ['post', 'fake']
+draft: true
 ---
 
 Quo tota viris id, pro ut numquam reprehendunt, quo ne wisi clita putent. Mei ea dicunt facilisi posidonium, agam salutandi eum no. Eu ornatus sensibus pri, sea id labores maiestatis. Ius in ignota iisque albucius. Per eligendi expetenda comprehensam an. Mel civibus partiendo te, euismod dolorem delicata ut eos.
