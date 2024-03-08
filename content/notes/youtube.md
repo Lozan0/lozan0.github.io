@@ -1,12 +1,12 @@
 ---
-date: 2016-10-26
+date: 2024-03-07
 tags: ['video', 'note']
 ---
 
 <Embed
-  src="https://www.youtube.com/embed/dpw9EHDh2bM"
+  src="https://www.youtube.com/embed/662nMtCRJOk?si=253D253DT-jK6ynryCjacRxS"
 
   
 />
 
-An example of how you can embed YouTube videos in a note.
+Caigan y charlamos.

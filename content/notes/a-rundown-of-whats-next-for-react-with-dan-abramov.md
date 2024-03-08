@@ -2,6 +2,7 @@
 title: A Rundown Of What's Next For React - With Dan Abramov
 date: 2019-08-05
 tags: ['note', 'podcast']
+hide: true
 ---
 
 <iframe
