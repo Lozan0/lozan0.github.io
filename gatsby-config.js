@@ -18,16 +18,12 @@ module.exports = {
         url: `#`,
       },
       {
-        icon: `twitter`,
-        url: `#`,
+        icon: `linkedin`,
+        url: `https://linkedin.com/in/santiago-lozano-restrepo-a505b02b6`,
       },
       {
         icon: `github`,
         url: `https://github.com/lozan0`,
-      },
-      {
-        icon: `node-js`,
-        url: `#`,
       },
     ],
   },
