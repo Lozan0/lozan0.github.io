@@ -2,6 +2,7 @@
 title: And this is another post
 date: 2017-01-02
 tags: ['post', 'fake', 'another']
+hide: true
 ---
 
 Quo tota viris id, pro ut numquam reprehendunt, quo ne wisi clita putent. Mei ea dicunt facilisi posidonium, agam salutandi eum no. Eu ornatus sensibus pri, sea id labores maiestatis. Ius in ignota iisque albucius. Per eligendi expetenda comprehensam an. Mel civibus partiendo te, euismod dolorem delicata ut eos.

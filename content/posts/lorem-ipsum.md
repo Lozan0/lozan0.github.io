@@ -2,6 +2,7 @@
 title: Lorem ipsum dolor sit amet
 date: 2018-03-03
 tags: ['post', 'fake', 'lorem ipsum']
+hide: true
 ---
 
 Lorem ipsum dolor sit amet, vocibus menandri sit ne, his modo unum repudiandae ne. No illum ancillae indoctum nam, his et alii cibo, hinc placerat sed an. Ne per cetero inermis vituperatoribus. Congue omnium id sed, te sumo quot denique nam. Bonorum nostrum appellantur est cu, eu sint virtute deserunt pri. Ex natum equidem quo. Appetere definitionem ne vix.

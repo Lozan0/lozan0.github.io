@@ -3,6 +3,7 @@ title: And this is another blog post
 cover: ./image.jpg
 date: 2018-01-01
 tags: ['post', 'fake']
+hide: true
 ---
 
 Quo integre oporteat et, ius no errem ignota honestatis. Pri tota nemore et, est pericula omittantur ei. Quot tempor libris eu nec. Ut qui primis delectus mediocritatem, id appareat verterem est. Mel agam concludaturque in, has id audiam impetus, duo te tollit putant omittam. Iuvaret invenire elaboraret ei pro, eam et regione feugait.
