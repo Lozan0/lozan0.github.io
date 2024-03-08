@@ -1,6 +1,6 @@
 ---
 title: Video in Link Card
-date: 2017-11-11
+date: 2024-03-07
 link: https://youtu.be/662nMtCRJOk?si=253Dbf3nIw3Yeio5FS7M
 tags: ['video', 'link']
 ---
