@@ -6,10 +6,10 @@
 <url> <loc>https://lozan0.github.io/tags/link/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/tags/note/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/tags/podcast/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lozan0.github.io/tags/fake/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/tags/presentation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/tags/project/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/tags/code/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://lozan0.github.io/tags/fake/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/tags/lorem-ipsum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/tags/video/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/tags/another/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -29,13 +29,11 @@
 <url> <loc>https://lozan0.github.io/notes/google-presentation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/notes/codepen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/notes/note-format/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lozan0.github.io/notes/youtube/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/notes/note-chronoblog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/power-apps/crear-app-lectura-qr/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/libros-de-arquitectura-y-desarrollo-de-sofware/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/introduccion-power-apps/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/full-blog-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://lozan0.github.io/this-could-be-your-blog-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/lorem-ipsum/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/and-this-is-another-blog-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://lozan0.github.io/and-this-is-another-post/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
