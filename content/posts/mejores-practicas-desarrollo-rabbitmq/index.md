@@ -1,3 +1,10 @@
+---
+title: RabbitMQ - Mejores prácticas de desarrollo
+cover: ./cover.jpeg
+date: 2024-08-23
+tags: ['post', 'desarrollo', 'RabbitMQ']
+---
+
 # RabbitMQ: Mejores prácticas de desarrollo
 
 
