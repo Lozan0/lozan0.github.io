@@ -46,7 +46,7 @@ tags: ['post', 'desarrollo', 'RabbitMQ']
 
 ## Alcance del documento
 
-~El propósito de este documento no es definir cada uno de los elementos aquí presentados en su naturaleza ni en su funcionamiento, para ello existe una amplia documentación en abundantes fuentes en todo internet y se hará referencia de las fuentes oficiales en la sección de recursos, si no dar pautas claras y concretas sobre las buenas prácticas a implementar en cada uno de estos elementos.
+El propósito de este documento no es definir cada uno de los elementos aquí presentados en su naturaleza ni en su funcionamiento, para ello existe una amplia documentación en abundantes fuentes en todo internet y se hará referencia de las fuentes oficiales en la sección de recursos, si no dar pautas claras y concretas sobre las buenas prácticas a implementar en cada uno de estos elementos.
 
 ## Colas
 
