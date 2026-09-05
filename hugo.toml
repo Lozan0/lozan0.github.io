@@ -1,0 +1,143 @@
+baseURL = "https://lozan0.github.io/"
+locale = "es"
+defaultContentLanguage = "es"
+title = "Lozano's Blog"
+theme = "PaperMod"
+resourceDir = "hugo_resources"
+
+enableEmoji = true
+pygmentsUseClasses = true
+
+[pagination]
+  pagerSize = 10
+
+[minify]
+  disableXML = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = false
+    style = "monokai"
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  env = "production"
+  title = "Lozano's Blog"
+  description = "Un blog de tecnología: arquitectura, desarrollo de software, DevSecOps y Cloud Native."
+  keywords = ["blog", "desarrollo", "software", "arquitectura", "devsecops", "cloud native"]
+  author = "Lozano's Blog"
+  images = ["banner.png"]
+  DateFormat = "2 January 2006"
+  defaultTheme = "dark"
+
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  ShowFullTextinRSS = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  ShowToc = true
+  TocOpen = false
+
+  # home page profile mode (equivalent to the old AuthorBanner + intro)
+  [params.profileMode]
+    enabled = true
+    title = "Lozano's Blog"
+    subtitle = "Arquitectura | Desarrollo de software | DevSecOps | Cloud Native"
+    imageUrl = "avatar.jpg"
+    imageTitle = "Lozano's Blog"
+    imageWidth = 120
+    imageHeight = 120
+    buttons = [
+      { name = "Posts", url = "posts" },
+      { name = "Notas", url = "notes" },
+      { name = "Links", url = "links" },
+      { name = "Tags", url = "tags" },
+      { name = "Archivo", url = "archives" },
+    ]
+
+  [params.assets]
+    disableHLJS = true
+    favicon = "favicon.png"
+
+  [params.fuseOpts]
+    isCaseSensitive = false
+    shouldSort = true
+    location = 0
+    distance = 1000
+    threshold = 0.4
+    minMatchCharLength = 0
+    keys = ["title", "permalink", "summary", "content"]
+
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/santiago-lozano-restrepo-a505b02b6"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/lozan0"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 10
+  [[menu.main]]
+    identifier = "notes"
+    name = "Notas"
+    url = "/notes/"
+    weight = 20
+  [[menu.main]]
+    identifier = "links"
+    name = "Links"
+    url = "/links/"
+    weight = 30
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 40
+  [[menu.main]]
+    identifier = "archives"
+    name = "Archivo"
+    url = "/archives/"
+    weight = 50
+  [[menu.main]]
+    identifier = "search"
+    name = "Buscar"
+    url = "/search/"
+    weight = 60
+
+[taxonomies]
+  tag = "tags"
+
+[privacy]
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true

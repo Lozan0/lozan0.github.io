@@ -1,0 +1,88 @@
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/source-code-pro-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Source Code Pro";
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/source-code-pro-600.woff2") format("woff2");
+}
+
+:root {
+  --gap: 24px;
+  --content-gap: 20px;
+  --nav-width: 1024px;
+  --main-width: 720px;
+  --radius: 3px;
+  --theme: #fdfdfd;
+  --entry: #fdfdfd;
+  --primary: #104c4e;
+  --secondary: #1b6a6d;
+  --tertiary: #d5dedb;
+  --content: #111111;
+  --code-block-bg: #d5dedb;
+  --code-bg: #d5dedb;
+  --border: #d5dedb;
+}
+
+:root[data-theme="dark"] {
+  --theme: #080c0a;
+  --entry: #0d1210;
+  --primary: #2e8877;
+  --secondary: #2e8877;
+  --tertiary: #161d1c;
+  --content: #eaeaea;
+  --code-block-bg: #101613;
+  --code-bg: #161d1c;
+  --border: #202824;
+}
+
+body,
+.list,
+.terms-tags {
+  font-family: "Source Code Pro", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+.nav,
+.top-link {
+  font-family: "Source Code Pro", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+a {
+  color: var(--primary);
+}
+
+.post-title,
+.entry-hint-parent,
+h1,
+h2,
+h3 {
+  font-family: "Source Code Pro", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-weight: 600;
+}
+
+.post-entry,
+.first-entry,
+.home-info {
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+}
+
+button,
+.button {
+  border-radius: var(--radius);
+}
+
+pre,
+code {
+  border-radius: var(--radius);
+}
+
+img {
+  border-radius: var(--radius);
+}

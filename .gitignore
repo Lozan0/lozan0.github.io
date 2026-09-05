@@ -1,0 +1,13 @@
+# Hugo build output
+public/
+hugo_resources/
+.hugo_build.lock
+
+# stale from previous Gatsby setup, kept as a safety net
+node_modules/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.sw*
