@@ -78,6 +78,11 @@ pygmentsUseClasses = true
     disableHLJS = true
     favicon = "favicon.png"
 
+  # logo junto al nombre del blog en la barra de navegación
+  [params.label]
+    icon = "images/logo.jpg"
+    iconHeight = 32
+
   [params.fuseOpts]
     isCaseSensitive = false
     shouldSort = true
@@ -100,6 +105,11 @@ pygmentsUseClasses = true
     url = "index.xml"
 
 [menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Inicio"
+    url = "/"
+    weight = 5
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
