@@ -1,6 +1,6 @@
 ---
 title: Buenas practicas en Golang
-date: 2026-09-5
+date: 2026-09-05
 tags: ['Desarrollo', 'Golang', 'Skills']
 ---
 
