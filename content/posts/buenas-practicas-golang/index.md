@@ -1403,7 +1403,7 @@ go doc -all ./internal/user   # lee tu propia API como la verá otro
 
 ---
 
-### 15. Resumen en 12 líneas
+## 15. Resumen en 12 líneas
 
 1. `gofmt` no se discute.
 2. Nombres cortos en ámbitos cortos; sin tartamudeo con el paquete.
@@ -1421,8 +1421,8 @@ go doc -all ./internal/user   # lee tu propia API como la verá otro
 
 ---
 
-### 16. Bonus: skill
+## 16. Bonus: skill
 
-Como se mencionó al principio, la IA ya se encarga de escribir cualquier codigo por ti, y para que lo haga con las mejores practicas, aquí tienes la skill concreta correspondiente a los puntos abordados en este articulo para que la integres en tus proyectos y desarrolles con IA siguiendo estas buenas practicas:
+Como se mencionó al principio, la IA ya se encarga de escribir cualquier código por ti. Para que lo haga siguiendo las mejores prácticas, aquí tienes la skill correspondiente a los puntos abordados en este artículo, para que puedas integrarla en tus proyectos y desarrollar con IA de forma consistente:
 
-#### [SKILL.md](SKILL.md)
+### [SKILL.md](./SKILL.md)
