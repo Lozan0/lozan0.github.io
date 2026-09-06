@@ -1425,4 +1425,4 @@ go doc -all ./internal/user   # lee tu propia API como la verá otro
 
 Como se mencionó al principio, la IA ya se encarga de escribir cualquier código por ti. Para que lo haga siguiendo las mejores prácticas, aquí tienes la skill correspondiente a los puntos abordados en este artículo, para que puedas integrarla en tus proyectos y desarrollar con IA de forma consistente:
 
-### [SKILL.md](https://github.com/Lozan0/lozan0.github.io/blob/main/content/posts/buenas-practicas-golang/SKILL.md)
+### <a href="https://github.com/Lozan0/lozan0.github.io/blob/main/content/posts/buenas-practicas-golang/SKILL.md" target="_blank" rel="noopener noreferrer">SKILL.md</a>
